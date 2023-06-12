@@ -1,7 +1,6 @@
+setuptools==65.5.0
 absl-py
-atari-py
 attrs
-dopamine-rl
 gin-config
 gym==0.19.0
 matplotlib
@@ -10,10 +9,11 @@ more_itertools
 networkx
 numpy
 pandas
+scikit-learn
 recsim
 seaborn
 simplejson
 sklearn
 statsmodels
-tensorflow
 tqdm
+torch
