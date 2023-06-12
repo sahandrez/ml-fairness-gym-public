@@ -1,0 +1,31 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+env.bak/
+.venv.bak/
+
+# Local development settings
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.pydevproject
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
